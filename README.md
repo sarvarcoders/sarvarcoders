@@ -1,6 +1,6 @@
 # 👨‍💻 Sarvarjon Davronov
 
-### iOS & Frontend Developer | Swift, SwiftUI, Firebase | React, TypeScript, GitHub
+### Fullstack & Frontend Developer | React, Next.js, Node.js | Swift, SwiftUI | GitHub
 
 ---
 
@@ -16,15 +16,18 @@
 
 ## 🎯 Maqsad
 
-Texnologiyalar bilan ishlashga ishtiyoqli va amaliy tajribaga ega dasturchiman. iOS va Frontend yo‘nalishlarida real loyihalarni ishlab chiqqanman hamda o‘quvchilarga o‘rgatganman. Yaxshi UI yaratish, real-time ma’lumotlar bilan ishlash, va mustahkam arxitekturali ilovalar yaratish — asosiy ustunligim. Jamoaviy ishga mosman va har doim yangi bilimlarga ochiqman.
+Texnologiyalar bilan ishlashga ishtiyoqli va amaliy tajribaga ega dasturchiman. Fullstack va frontend yo‘nalishlarida real loyihalarni ishlab chiqqanman va UI/UX ga e’tibor beraman. Real-time ma’lumotlar bilan ishlash, mustahkam arxitekturali ilovalar yaratish va jamoaviy ishda faol qatnashish — asosiy ustunligim.
 
 ---
 
 ## 💼 Tajriba
 
+**Axborot Texnologiyalari Fakulteti**
+Termiz Davlat Universiteti — 2022–2024
+
 **iOS & Frontend Mentor**  
 *Niyat School* — 2024–hozirgacha  
-- Swift, SwiftUI, UIKit, React, TypeScript bo‘yicha darslar bergan  
+- Swift, SwiftUI, React, TypeScript bo‘yicha darslar bergan  
 - Portfolio loyihalarni ishlab chiqqan va o‘rgatgan  
 - GitHub orqali real jamoaviy ishlashni o‘rgatgan
 
@@ -32,20 +35,37 @@ Texnologiyalar bilan ishlashga ishtiyoqli va amaliy tajribaga ega dasturchiman. 
 
 ## 🛠 Texnik Ko‘nikmalar
 
-- **iOS:** Swift, SwiftUI, UIKit, MVVM, Firebase (Auth, Firestore)
-- **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS, TypeScript
-- **Asboblar:** Xcode, Git, GitHub, Figma, Postman
-- **Yondashuvlar:** Clean Code, Responsive Design, Reusable Components
+- **Frontend:** React, Next.js, TypeScript, TailwindCSS, Ant Design, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, REST API, JWT Authentication  
+- **iOS:** Swift, SwiftUI, MVVM, Firebase (Auth, Firestore)  
+- **Asboblar:** Xcode, Git, GitHub, Postman, Figma  
+- **Yondashuvlar:** Clean Code, Responsive Design, Reusable Components, Component-based Architecture
 
 ---
 
 ## 🚀 Portfolio Loyihalari
 
-### 🔹 Forum App  
-Firebase asosidagi Q&A forum ilovasi. Realtime savol-javoblar, user login, like tizimi bilan.
+### 🔹 Polygon Mapping App (React + Leaflet + Node.js)
+- Foydalanuvchilar xaritada poligon chizishi va ma’lumotlarni saqlashi mumkin  
+- Ro‘yxatdan o‘tish va admin panel bilan ishlash imkoniyati  
+- **Tech Stack:** React, Ant Design  
+- **Live Demo:** [https://karantin.netlify.app/](https://karantin.netlify.app/)  
+- **GitHub:** [Poligon](https://github.com/sarvarcoders/Poligon)  
 
-### 🔹 FikrApp  
-Fikr bildirish, like qilish va foydalanuvchi bilan ishlovchi real-time tizim.
+---
+
+### 🔹 Forum App (iOS + Firebase)
+- Realtime savol-javob tizimi, user login, like system  
+- **Tech Stack:** Swift, SwiftUI, Firebase (Auth, Firestore)  
+- **GitHub:** [Forum App](https://github.com/sarvarcoders/ForumApp)
+  
+---
+
+### 🔹 FikrApp (iOS + Firebase)
+- Fikr bildirish, like qilish va foydalanuvchi bilan ishlovchi real-time tizim  
+- **Tech Stack:** Swift, SwiftUI, Firebase  
+- **GitHub:** [FikrApp](https://github.com/sarvarcoders/FikrApp)  
+
 
 🔗 [GitHub loyihalarimni ko‘rish](https://github.com/sarvarcoders)
 
