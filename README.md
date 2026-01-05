@@ -20,10 +20,11 @@ Texnologiyalar bilan ishlashga ishtiyoqli va amaliy tajribaga ega dasturchiman. 
 
 ---
 
-## 💼 Tajriba
+## 💼 Tajriba va faoliyat
 
-**Axborot Texnologiyalari Fakulteti**
-Termiz Davlat Universiteti — 2022–2024
+**Termiz davlat universiteti**
+
+- Axborot Texnologiyalari Fakulteti — 2022–2024
 
 **iOS & Frontend Mentor**  
 *Niyat School* — 2024–hozirgacha  
